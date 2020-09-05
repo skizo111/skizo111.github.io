@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://www.wallpapers4u.org/wp-content/uploads/scheme_contact_blue_black_30958_1920x1080.jpg);
+}
+
+
+
+
+table{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+table td, table th{
+    border: 1px solid #dddddd;
+    padding: 8px;
+
+}
+table tr:nth-child(even){background-color: #f2f2f2;}
+table tr:hover{background-color: #ddd;}
+table tr{
+    background-color: #f2f2f2;
+}
+
+table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4caf50;
+    color: white;
+}
+h1{
+    list-style-type: none;
+    margin: 20px;
+    padding: 30px;
+    overflow: hidden;
+    background-color:grey;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg);
+}
+h1 strong{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:#333;
+}
+li a{
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    float: left;
+}
+li a:hover{
+    background-color: #111;
+}

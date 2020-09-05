@@ -1,0 +1,96 @@
+
+body{
+    opacity: 0,3;
+    background-position: top;
+    background-image: url(https://wallpaperaccess.com/full/1255551.jpg);
+    background-repeat: repeat;
+}
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:#333;
+}
+li a{
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    float: left;
+}
+li a:hover{
+    background-color: #111;
+}
+h1{
+    list-style-type: none;
+    margin: 20px;
+    padding: 30px;
+    overflow: hidden;
+    background-color:grey;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg);
+}
+h1 strong{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 0px solid #f1f1f1;}
+
+
+input[type=text], input[type=password] {
+  width: 450px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 0px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color:#333;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #333;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+.container {
+  padding: 10px;
+  width: 450px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg);
+}
+
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+@media screen and (max-width: 0px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 450px;
+}

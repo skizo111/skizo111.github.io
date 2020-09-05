@@ -1,0 +1,37 @@
+h1{
+    list-style-type: none;
+    margin: 20px;
+    padding: 30px;
+    overflow: hidden;
+    background-color:grey;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg);
+}
+h1 strong{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    margin: 10px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:#333;
+}
+li a{
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    float: left;
+}
+li a:hover{
+    background-color: #111;
+}
+body{
+    background-color: black;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5d389f60def402000186ddc3/1567522893481-3ZR9W09GSXRHTZBLD7W4/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p52bY8kZn6Mpkp9xtPUVLhvLurswpbKwwoDWqBh58NLxQZMhB36LmtxTXHHtLwR3w/BB_1903-About+Page+-+6+-+Website+background+1920x1080.png?format=2500w);
+}
